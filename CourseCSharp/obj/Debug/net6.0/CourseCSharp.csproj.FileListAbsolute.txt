@@ -1,0 +1,15 @@
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\bin\Debug\net6.0\CourseCSharp.exe
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\bin\Debug\net6.0\CourseCSharp.deps.json
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\bin\Debug\net6.0\CourseCSharp.runtimeconfig.json
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\bin\Debug\net6.0\CourseCSharp.dll
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\bin\Debug\net6.0\CourseCSharp.pdb
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.csproj.AssemblyReference.cache
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.AssemblyInfoInputs.cache
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.AssemblyInfo.cs
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.csproj.CoreCompileInputs.cache
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.dll
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\refint\CourseCSharp.dll
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.pdb
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\CourseCSharp.genruntimeconfig.cache
+C:\temp\visualstudio-workspace\curso-csharp\CourseCSharp\CourseCSharp\obj\Debug\net6.0\ref\CourseCSharp.dll
